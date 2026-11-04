@@ -1,5 +1,8 @@
 <h2 align="center">I make vulns, sometimes</h2>
-<h3 align="center">Information Security @ National University of Singapore</h3>
+<h3 align="center">Information Security @ National University of Singapore
+
+<a href="https://divsonar.dev/"> divsonar.dev </a>
+</h3>
 <h2 align="center"> 
   <a href="https://www.linkedin.com/in/holden-han/" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" /></a>
 </h2>
