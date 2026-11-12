@@ -1,4 +1,4 @@
-<h2 align="center">I make vulns, sometimes</h2>
+<h2 align="center"></h2>
 <h3 align="center">Information Security @ National University of Singapore
 
 <a href="https://divsonar.dev/"> divsonar.dev </a>
@@ -9,6 +9,8 @@
 
 | ID/CVE      | Source      | Severity | Details |
 | :--------- | :-------- | :------ | :------ |
+| <a href="https://github.com/goreleaser/nfpm/security/advisories/GHSA-cfgx-mprf-xh64">GHSA-cfgx-mprf-xh64</a> | nfpm | 9.4 Crit | Supply-chain attack + RCE |
+| <a href="https://github.com/goreleaser/nfpm/security/advisories/GHSA-839m-5qhj-w4rm">GHSA-839m-5qhj-w4rm</a> | nfpm | 7.5 High | Incorrect escaping results in Arbitrary Code Execution |
 | <a href="https://github.com/pbatard/rufus/security/advisories/GHSA-w4w7-p3x2-3p83">GHSA-w4w7-p3x2-3p83</a> | Rufus | 8.5 High | Inpromper validation of symlinks allow arbitrary host file writes as Administrator  |
 | <a href="https://github.com/pbatard/rufus/security/advisories/GHSA-j6fh-hww6-74mw">GHSA-j6fh-hww6-74mw</a> | Rufus | 8.5 High | Multi-extent extent-name check bypass results in heap out-of-bounds write |
 | <a href="https://github.com/goreleaser/goreleaser/security/advisories/GHSA-rjp9-h7gp-wr7q">GHSA-rjp9-h7gp-wr7q</a> | GoReleaser | 7.5 High | Incorrect escaping in snapshot version results in arbitrary command execution |
