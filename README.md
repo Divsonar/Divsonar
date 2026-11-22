@@ -3,9 +3,7 @@
 
 <a href="https://divsonar.dev/"> divsonar.dev </a>
 </h3>
-
-<body>Actively collaborating with several open source projects for security auditing.  
-Please contact at <a href="mailto:divsonar0@gmail.com">divsonar0@gmail.com</a>.
+<body>
 </body>
 <h2 align="center"> 
   <a href="https://www.linkedin.com/in/holden-han/" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" /></a>
